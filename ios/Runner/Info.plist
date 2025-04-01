@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Job Verse</string>
+	<string>cusorAiTest</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Job Verse</string>
+	<string>cusorAiTest</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 
@@ -22,25 +22,14 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
-	<array>
-        <dict>
-            <key>CFBundleTypeRole</key>
-            <string>Editor</string>
-            <key>CFBundleURLSchemes</key>
-            <array>
-                <string>com.googleusercontent.apps.156244328507-1s8i7pe8ail9taicodoeu8qc3lakj8j2</string>
-                
-            </array>
-        </dict>
-
-        <dict>
+	<array>        <dict>
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>jobverse.com</string>
+        <string>cusoraitest.com</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>jobverse</string>
+        <string>cusoraitest</string>
         </array>
         </dict>
     </array>
@@ -54,12 +43,7 @@
 	<true/>
 
 
-	<key>NSPhotoLibraryUsageDescription</key>
-    <string>o upload and update your profile picture, JobVerse requires access to your photos. This allows you to choose an image from your gallery. You can manage permissions in your device settings.</string>
-	<key>NSCameraUsageDescription</key>
-    <string>JobVerse needs access to your camera to capture and upload your profile picture. Please allow access to continue.</string>
-	<key>PermissionGroupNotification</key>
-    <string>Stay updated! JobVerse would like to send you notifications about job updates, application status, and important alerts. Please allow notifications to stay informed</string>
+
 
 
 
